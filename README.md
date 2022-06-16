@@ -1,4 +1,4 @@
-# Find GitHub users and access their profile with custom UI/UX design built with ReactJS
+## Find GitHub users and access their profile with custom UI/UX design built with ReactJS
 
 ## Live demo: https://githubfinder84.netlify.app
 
